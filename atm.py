@@ -9,4 +9,16 @@ while True:
     if num == '4': # 4번 종료
         break # 종료
 
+    if num == '1':
+        pass
+
+    if num == '2':
+        pass
+    
+    if num == '3':
+        pass
+# 코드는 위에서부터 아래로 실행
+
+
+
 print(f'서비스를 종료합니다. 현재 잔액은 {balance}원 입니다.')
